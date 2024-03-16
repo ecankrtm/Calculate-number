@@ -1,0 +1,1 @@
+Finding the average of the 3 numbers entered with the Windows Form, the larger of the numbers and the smaller of the numbers and printing it to the Result textbox and making these operations with the find max Average and minimum buttons 
